@@ -1,3 +1,4 @@
+[out3.pdf](https://github.com/user-attachments/files/27386058/out3.pdf)
 # INVERSE-OF-A-MATRIX
 ## Aim:
 To write a python program to find the inverse of a matrix
@@ -24,11 +25,10 @@ print(res)
 ## Output:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/efb26e12-ad1f-4d40-b055-43160be4ea53" />
 
-
-
-
-
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8a2d97e3-77c7-4831-b371-006b4f0b9f12" />
+
+[out3.pdf](https://github.com/user-attachments/files/27386109/out3.pdf)
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
